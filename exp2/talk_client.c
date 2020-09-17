@@ -15,7 +15,7 @@ int main(int argc, char* argv[])
 {
 	struct sockaddr_in sin;
 	char* host;
-	char buf[MAX_LINE];
+	char buf[MAX_LINE], echo_buf[MAX_LINE];
 	int s;
 	int len;
 
@@ -52,11 +52,17 @@ int main(int argc, char* argv[])
 		exit(1);
 	}
 
+	printf("Mensagem: ");
+
 	// Laço principal: obtém e envia linhas de texto
 	while(fgets(buf, sizeof(buf), stdin)) {
 		buf[MAX_LINE-1] = 0;
 		len = strlen(buf) + 1;
 		send(s, buf, len, 0);
+
+		// Espera echo do srvidor e o imprime
+		recv(s, echo_buf, sizeof(echo_buf), 0);
+		printf("Resposta: %s\nMensagem: ", echo_buf);
 	}
 
 	close(s);
