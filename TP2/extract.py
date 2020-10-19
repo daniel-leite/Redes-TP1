@@ -53,9 +53,10 @@ def getRoute(i, file):
     return route[1:]
 
 def main (file, names):
+    n = len(file)
     fig, ax = plt.subplots(2, 2, figsize=(30,2*7.5))
     for i in range (4):
-        rtt_str = getRTT(i, 'traceroute_11h00.txt')
+        rtt_str = getRTT(i, file)
         rtt = np.array([float(x) for x in rtt_str])
     #     print (rtt.mean(), rtt)
 
@@ -64,7 +65,7 @@ def main (file, names):
         ax[int(i/2)][i%2].set_title('RTT para ' +sites[i])
 
         route = getRoute(i, 'traceroute_11h00.txt')
-        with open(names[i]+'-.txt', 'w') as f:
+        with open(file[:n-4] + '_route2_' + names[i]+'-.txt', 'w') as f:
             for line in route:
                 for ii, addr in enumerate(line):
                     if ii>0:
@@ -76,7 +77,7 @@ def main (file, names):
             f.write('\n\n\n')
             for line in rtt_str:
                 f.write(line + ', ')
-    fig.savefig('rtt11h00.png', dpi=200, bbox_inches = 'tight' )
+    fig.savefig(file[:n-4] + '_rtt.png', dpi=200, bbox_inches = 'tight' )
 
 
 sites =['www.ufrj.br', 'www.ucla.edu', 'www.phil.cam.ac.uk', 'www.adelaide.edu.au']
@@ -87,5 +88,5 @@ parameters = {'xtick.labelsize': 15,
               'axes.titlesize' : 25}
 plt.rcParams.update(parameters)
 
-file = sys.argv[0]
+file = sys.argv[1]
 main(file, sites)
