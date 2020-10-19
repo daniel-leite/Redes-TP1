@@ -1,21 +1,22 @@
 myrouter.bloi.com.br(192.168.1.1)
 *, 189-83-64-1.user.veloxzone.com.br(189.83.64.1)
-200.216.90.235(200.216.90.235)
+*, 100.122.53.247(100.122.53.247)
 *
 *
+*, 100.122.19.76(100.122.19.76)
+*, ix-ae-13-0.thar1.asaob-sao-paulo.as6453.net(216.6.93.64)
+if-ae-1-2.thar1.asaoa-sao-paulo.as6453.net(216.6.112.4)
+*, if-ae-10-2.tcore1.nto-newyork.as6453.net(180.87.15.237)
+*, if-ae-9-2.tcore1.n75-newyork.as6453.net(63.243.128.122)
+*, ae9.ear2.NewYork2.Level3.net(4.68.62.185)
+*, ae-1-3504.ear1.SanJose1.Level3.net(4.69.214.146)
+*, CENIC.ear1.SanJose1.Level3.net(4.15.122.46)
+*, dc-svl-agg8--svl-agg4-100ge-1.cenic.net(137.164.11.29)
+*, dc-lax-agg8--svl-agg8--100ge--2.cenic.net(137.164.11.20)
 *
-*
-*, 94.142.97.246(94.142.97.246)
-*
-*, 94.142.107.27(94.142.107.27)
-*
-*, CENIC.ear1.LosAngeles1.Level3.net(4.35.156.66)
-*, dc-lax-agg8--lax-agg6-100ge-3.cenic.net(137.164.11.35)
-*
-bd11f1.anderson--cr001.anderson.ucla.net(169.232.4.6)
-cr00f1.anderson--rtr11f4.mathsci.ucla.net(169.232.8.185)
+*, bd11f1.anderson--cr001.anderson.ucla.net(169.232.4.6)
 *, cr00f1.anderson--rtr11f4.mathsci.ucla.net(169.232.8.185)
-*, spotlight.ucla.edu(164.67.228.152)
+*, cr00f1.anderson--rtr11f4.mathsci.ucla.net(169.232.8.185)
 *, spotlight.ucla.edu(164.67.228.152)
 spotlight.ucla.edu(164.67.228.152)
 

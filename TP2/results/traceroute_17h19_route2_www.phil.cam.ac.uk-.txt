@@ -1,20 +1,19 @@
 myrouter.bloi.com.br(192.168.1.1)
-*, 189-83-64-1.user.veloxzone.com.br(189.83.64.1)
+*
 100.122.53.157(100.122.53.157)
 *
 *
 *
 *
-*, HundredGE0-3-0-0.br01.ldn04.pccwbtn.net(63.218.242.129)
+HundredGE0-3-0-0.br01.ldn04.pccwbtn.net(63.218.242.129)
 linx-gw1.ja.net(195.66.224.15)
 ae23.londtt-sbr1.ja.net(146.97.35.169)
-*, ae28.londtw-sbr2.ja.net(146.97.33.62)
-*, ae31.lowdss-sbr1.ja.net(146.97.33.29)
-*, ae26.lowdss-ban1.ja.net(146.97.35.246)
-*, uoc.ja.net(146.97.41.38)
+ae28.londtw-sbr2.ja.net(146.97.33.62)
+ae31.lowdss-sbr1.ja.net(146.97.33.29)
+ae26.lowdss-ban1.ja.net(146.97.35.246)
+uoc.ja.net(146.97.41.38)
 *, d-dw.s-dw.net.cam.ac.uk(193.60.88.2)
 *, d-dw.s-dw.net.cam.ac.uk(193.60.88.2)
-*, philos.falcon.csx.cam.ac.uk(131.111.15.58)
 *, philos.falcon.csx.cam.ac.uk(131.111.15.58)
 philos.falcon.csx.cam.ac.uk(131.111.15.58)
 
