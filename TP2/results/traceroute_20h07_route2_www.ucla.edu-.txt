@@ -1,0 +1,25 @@
+myrouter.bloi.com.br(192.168.1.1)
+*
+100.122.53.247(100.122.53.247)
+*
+*
+*
+*
+if-ae-1-2.thar1.asaoa-sao-paulo.as6453.net(216.6.112.4)
+if-ae-10-2.tcore1.nto-newyork.as6453.net(180.87.15.237)
+if-ae-9-2.tcore1.n75-newyork.as6453.net(63.243.128.122)
+ae9.ear2.NewYork2.Level3.net(4.68.62.185)
+*, ae-1-3504.ear1.SanJose1.Level3.net(4.69.214.146)
+*, CENIC.ear1.SanJose1.Level3.net(4.15.122.46)
+*, dc-svl-agg8--svl-agg4-100ge-1.cenic.net(137.164.11.29)
+*, dc-lax-agg8--svl-agg8--100ge--2.cenic.net(137.164.11.20)
+*
+bd11f1.anderson--cr001.anderson.ucla.net(169.232.4.6)
+cr00f1.anderson--rtr11f4.mathsci.ucla.net(169.232.8.185)
+*, cr00f1.anderson--rtr11f4.mathsci.ucla.net(169.232.8.185)
+*, gateway.lb.it.ucla.edu(164.67.228.152), spotlight.ucla.edu(164.67.228.152)
+spotlight.ucla.edu(164.67.228.152)
+
+
+
+221.227, 220.587, 221.182, 221.547, 221.491, 221.306, 220.931, 223.037, 221.498, 221.432, 222.260, 221.474, 220.120, 221.143, 221.184, 220.670, 220.463, 221.822, 221.039, 220.516, 221.257, 221.471, 220.881, 225.116, 222.053, 222.101, 

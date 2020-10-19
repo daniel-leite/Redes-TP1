@@ -1,0 +1,26 @@
+myrouter.bloi.com.br(192.168.1.1)
+*
+100.122.48.241(100.122.48.241)
+*
+*
+*
+*
+*, TenGE0-3-0-2.br03.lax05.pccwbtn.net(63.223.43.102)
+*, TenGE0-3-0-3.br03.lax05.pccwbtn.net(63.223.43.106)
+aarnet.as7575.any2ix.coresite.com(206.72.210.64)
+*, xe-0-2-1.pe1.alxd.nsw.aarnet.net.au(202.158.194.172)
+*, et-3-3-0.pe1.rsby.nsw.aarnet.net.au(113.197.15.156)
+*, xe-1-1-0.pe1.eskp.nsw.aarnet.net.au(113.197.15.199)
+*, et-0-3-0.pe1.wmlb.vic.aarnet.net.au(113.197.15.9)
+*, et-0-3-0.pe1.adel.sa.aarnet.net.au(113.197.15.29)
+*, adelaide.vlan244.xe-5-0-4.pe1.adel.sa.aarnet.net.au(138.44.192.93)
+*
+*
+*
+*, online-media.adelaide.edu.au(129.127.149.1)
+*
+online-media.adelaide.edu.au(129.127.149.1)
+
+
+
+401.975, 402.331, 383.536, 382.551, 382.751, 386.000, 383.243, 385.752, 386.346, 383.949, 382.921, 383.071, 382.634, 384.050, 383.382, 382.789, 382.982, 384.090, 385.299, 383.881, 383.264, 383.965, 
