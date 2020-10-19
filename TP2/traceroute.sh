@@ -8,7 +8,7 @@ sites='www.ufrj.br www.ucla.edu www.phil.cam.ac.uk www.adelaide.edu.au'
 for site in $sites
 do
 	counter=1
-	until [ $counter -gt 1 ]
+	until [ $counter -gt 10 ]
 	do
 		traceroute $site >> traceroute.txt
 		printf "\n\n" >>traceroute.txt
@@ -16,6 +16,7 @@ do
 	done
 
 	echo $site done
+	printf "\n\n\n\n"
 
 
 done
