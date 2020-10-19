@@ -1,0 +1,922 @@
+traceroute to www.ufrj.br (146.164.209.131), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  2.634 ms  5.525 ms  5.543 ms
+ 2  * * *
+ 3  200.216.90.237 (200.216.90.237)  28.044 ms  28.169 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  29.810 ms  31.178 ms  32.103 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * 200.20.96.13 (200.20.96.13)  33.206 ms  31.970 ms
+15  200.20.96.15 (200.20.96.15)  39.105 ms  39.301 ms  39.293 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * 146.164.209.131 (146.164.209.131)  32.091 ms *
+
+
+traceroute to www.ufrj.br (146.164.209.131), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.930 ms  1.980 ms  2.242 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * as1916.saopaulo.sp.ix.br (187.16.220.208)  29.660 ms  29.837 ms
+ 8  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  32.635 ms  33.840 ms  37.006 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * 200.20.96.13 (200.20.96.13)  35.071 ms  46.324 ms
+15  200.20.96.15 (200.20.96.15)  46.298 ms  46.263 ms  47.159 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * 146.164.209.131 (146.164.209.131)  41.849 ms  66.166 ms
+
+
+traceroute to www.ufrj.br (146.164.209.131), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.902 ms  1.921 ms  2.134 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * 100.122.19.92 (100.122.19.92)  52.547 ms *
+ 7  * * as1916.saopaulo.sp.ix.br (187.16.220.208)  27.769 ms
+ 8  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  33.014 ms  33.351 ms  35.163 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * 200.20.96.13 (200.20.96.13)  32.948 ms  33.044 ms
+15  200.20.96.15 (200.20.96.15)  39.359 ms  39.343 ms  39.329 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * 146.164.209.131 (146.164.209.131)  33.246 ms  33.172 ms
+
+
+traceroute to www.ufrj.br (146.164.209.131), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  4.374 ms  4.328 ms  4.317 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * as1916.saopaulo.sp.ix.br (187.16.220.208)  35.912 ms  37.954 ms
+ 8  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  42.192 ms  48.653 ms  48.890 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  200.20.96.11 (200.20.96.11)  36.747 ms * *
+14  * * 200.20.96.13 (200.20.96.13)  33.668 ms
+15  200.20.96.15 (200.20.96.15)  39.488 ms * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * 146.164.209.131 (146.164.209.131)  36.202 ms  36.156 ms
+
+
+traceroute to www.ufrj.br (146.164.209.131), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  13.206 ms  13.656 ms  13.643 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * as1916.saopaulo.sp.ix.br (187.16.220.208)  29.196 ms  30.295 ms
+ 8  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  34.106 ms  35.338 ms  36.786 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  200.20.96.11 (200.20.96.11)  32.471 ms * *
+14  * * 200.20.96.13 (200.20.96.13)  32.037 ms
+15  200.20.96.15 (200.20.96.15)  32.216 ms * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * 146.164.209.131 (146.164.209.131)  41.723 ms  42.162 ms
+
+
+traceroute to www.ufrj.br (146.164.209.131), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.916 ms  2.025 ms  2.219 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * 100.122.19.92 (100.122.19.92)  26.165 ms *
+ 7  * * as1916.saopaulo.sp.ix.br (187.16.220.208)  29.482 ms
+ 8  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  32.403 ms * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * 200.20.96.26 (200.20.96.26)  32.537 ms *
+13  * * *
+14  * * 200.20.96.13 (200.20.96.13)  43.373 ms
+15  200.20.96.15 (200.20.96.15)  43.315 ms  43.301 ms *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * 146.164.209.131 (146.164.209.131)  34.334 ms  35.021 ms
+
+
+traceroute to www.ufrj.br (146.164.209.131), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.936 ms  2.126 ms  2.473 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * as1916.saopaulo.sp.ix.br (187.16.220.208)  28.457 ms  29.061 ms
+ 8  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  34.749 ms  35.437 ms  36.412 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * 200.20.96.13 (200.20.96.13)  34.558 ms  36.035 ms
+15  200.20.96.15 (200.20.96.15)  36.009 ms  35.999 ms  35.990 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * 146.164.209.131 (146.164.209.131)  34.564 ms  35.539 ms
+
+
+traceroute to www.ufrj.br (146.164.209.131), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  7.284 ms  7.891 ms  8.144 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * 100.122.17.182 (100.122.17.182)  42.276 ms *
+ 6  * * *
+ 7  * * as1916.saopaulo.sp.ix.br (187.16.220.208)  26.971 ms
+ 8  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  30.604 ms  32.033 ms  32.990 ms
+ 9  * * *
+10  * * *
+11  * 200.20.96.20 (200.20.96.20)  31.958 ms *
+12  * * *
+13  * * *
+14  * * 200.20.96.13 (200.20.96.13)  34.291 ms
+15  200.20.96.15 (200.20.96.15)  35.172 ms  36.201 ms *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * 146.164.209.131 (146.164.209.131)  31.789 ms  37.112 ms
+
+
+traceroute to www.ufrj.br (146.164.209.131), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  3.796 ms  5.758 ms  6.054 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * 100.122.19.92 (100.122.19.92)  33.844 ms *
+ 7  * * as1916.saopaulo.sp.ix.br (187.16.220.208)  38.566 ms
+ 8  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  36.434 ms  38.506 ms *
+ 9  * * *
+10  * * *
+11  * * *
+12  * 200.20.96.26 (200.20.96.26)  48.060 ms *
+13  * * *
+14  * * 200.20.96.13 (200.20.96.13)  31.761 ms
+15  200.20.96.15 (200.20.96.15)  32.755 ms  33.439 ms  34.669 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * 146.164.209.131 (146.164.209.131)  38.869 ms  39.048 ms
+
+
+traceroute to www.ufrj.br (146.164.209.131), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.777 ms  2.003 ms  2.339 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * 100.122.19.92 (100.122.19.92)  57.989 ms *
+ 7  * * as1916.saopaulo.sp.ix.br (187.16.220.208)  26.935 ms
+ 8  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  31.306 ms  34.039 ms  35.489 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * 200.20.96.13 (200.20.96.13)  33.370 ms  33.376 ms
+15  200.20.96.15 (200.20.96.15)  35.183 ms  36.374 ms  37.386 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * 146.164.209.131 (146.164.209.131)  32.992 ms  33.094 ms
+
+
+
+
+
+
+traceroute to www.ucla.edu (164.67.228.152), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.992 ms  2.106 ms  2.229 ms
+ 2  * * *
+ 3  100.122.53.247 (100.122.53.247)  27.601 ms  27.815 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  if-ae-1-2.thar1.asaoa-sao-paulo.as6453.net (216.6.112.4)  202.981 ms  202.931 ms  202.917 ms
+ 9  if-ae-10-2.tcore1.nto-newyork.as6453.net (180.87.15.237)  203.097 ms  205.102 ms  205.056 ms
+10  if-ae-9-2.tcore1.n75-newyork.as6453.net (63.243.128.122)  205.041 ms *  204.126 ms
+11  ae9.ear2.NewYork2.Level3.net (4.68.62.185)  204.156 ms *  204.801 ms
+12  * * *
+13  CENIC.ear1.SanJose1.Level3.net (4.15.122.46)  223.689 ms  225.585 ms  225.801 ms
+14  dc-svl-agg8--svl-agg4-100ge-1.cenic.net (137.164.11.29)  225.958 ms * *
+15  dc-lax-agg8--svl-agg8--100ge--2.cenic.net (137.164.11.20)  277.402 ms  277.356 ms *
+16  * * *
+17  * * *
+18  * * cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  225.728 ms
+19  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  225.970 ms  222.933 ms  223.580 ms
+20  spotlight.ucla.edu (164.67.228.152)  223.342 ms  222.548 ms  248.538 ms
+
+
+traceroute to www.ucla.edu (164.67.228.152), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.788 ms  3.442 ms  3.836 ms
+ 2  * * *
+ 3  100.122.53.247 (100.122.53.247)  26.984 ms  27.129 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  if-ae-1-2.thar1.asaoa-sao-paulo.as6453.net (216.6.112.4)  172.479 ms  173.427 ms  173.416 ms
+ 9  * if-ae-10-2.tcore1.nto-newyork.as6453.net (180.87.15.237)  205.074 ms *
+10  * if-ae-9-2.tcore1.n75-newyork.as6453.net (63.243.128.122)  204.436 ms  207.160 ms
+11  ae9.ear2.NewYork2.Level3.net (4.68.62.185)  202.903 ms  203.831 ms  207.071 ms
+12  * * *
+13  CENIC.ear1.SanJose1.Level3.net (4.15.122.46)  222.297 ms  224.302 ms *
+14  * * *
+15  * * dc-lax-agg8--svl-agg8--100ge--2.cenic.net (137.164.11.20)  251.797 ms
+16  * * *
+17  * bd11f1.anderson--cr001.anderson.ucla.net (169.232.4.6)  220.322 ms *
+18  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  306.254 ms  247.241 ms  307.176 ms
+19  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  307.102 ms  306.698 ms  306.653 ms
+20  spotlight.ucla.edu (164.67.228.152)  307.707 ms  307.682 ms  223.564 ms
+
+
+traceroute to www.ucla.edu (164.67.228.152), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  2.128 ms  2.303 ms  2.673 ms
+ 2  * * *
+ 3  100.122.53.247 (100.122.53.247)  27.084 ms  27.284 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  if-ae-1-2.thar1.asaoa-sao-paulo.as6453.net (216.6.112.4)  134.746 ms  134.886 ms  136.217 ms
+ 9  * if-ae-10-2.tcore1.nto-newyork.as6453.net (180.87.15.237)  135.739 ms *
+10  * if-ae-9-2.tcore1.n75-newyork.as6453.net (63.243.128.122)  202.629 ms  160.072 ms
+11  ae9.ear2.NewYork2.Level3.net (4.68.62.185)  249.515 ms  168.622 ms  140.016 ms
+12  * * *
+13  CENIC.ear1.SanJose1.Level3.net (4.15.122.46)  225.865 ms * *
+14  * dc-svl-agg8--svl-agg4-100ge-1.cenic.net (137.164.11.29)  302.300 ms *
+15  * * *
+16  * * *
+17  * bd11f1.anderson--cr001.anderson.ucla.net (169.232.4.6)  221.629 ms  308.556 ms
+18  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  308.505 ms  307.649 ms  307.604 ms
+19  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  305.020 ms  304.973 ms  224.769 ms
+20  spotlight.ucla.edu (164.67.228.152)  224.286 ms  286.944 ms  286.514 ms
+
+
+traceroute to www.ucla.edu (164.67.228.152), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.905 ms  2.341 ms  2.656 ms
+ 2  * * *
+ 3  100.122.53.247 (100.122.53.247)  27.432 ms  27.667 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  if-ae-1-2.thar1.asaoa-sao-paulo.as6453.net (216.6.112.4)  153.302 ms  153.260 ms  153.255 ms
+ 9  * if-ae-10-2.tcore1.nto-newyork.as6453.net (180.87.15.237)  205.341 ms *
+10  * if-ae-9-2.tcore1.n75-newyork.as6453.net (63.243.128.122)  204.396 ms  204.493 ms
+11  ae9.ear2.NewYork2.Level3.net (4.68.62.185)  135.752 ms  134.148 ms  209.664 ms
+12  * * *
+13  CENIC.ear1.SanJose1.Level3.net (4.15.122.46)  225.982 ms  226.837 ms *
+14  * * *
+15  * * *
+16  * * *
+17  * bd11f1.anderson--cr001.anderson.ucla.net (169.232.4.6)  219.993 ms *
+18  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  224.826 ms  284.732 ms  307.763 ms
+19  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  307.696 ms  307.755 ms  305.960 ms
+20  spotlight.ucla.edu (164.67.228.152)  223.732 ms  220.769 ms  222.437 ms
+
+
+traceroute to www.ucla.edu (164.67.228.152), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  6.779 ms  7.137 ms  7.461 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * 100.122.19.76 (100.122.19.76)  26.336 ms *
+ 7  * * ix-ae-13-0.thar1.asaob-sao-paulo.as6453.net (216.6.93.64)  26.914 ms
+ 8  if-ae-1-2.thar1.asaoa-sao-paulo.as6453.net (216.6.112.4)  136.637 ms  137.023 ms *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * CENIC.ear1.SanJose1.Level3.net (4.15.122.46)  259.642 ms *
+14  dc-svl-agg8--svl-agg4-100ge-1.cenic.net (137.164.11.29)  312.744 ms  305.612 ms  307.443 ms
+15  dc-lax-agg8--svl-agg8--100ge--2.cenic.net (137.164.11.20)  307.388 ms  307.334 ms  307.289 ms
+16  * * *
+17  bd11f1.anderson--cr001.anderson.ucla.net (169.232.4.6)  371.172 ms  371.157 ms *
+18  * * *
+19  * * *
+20  spotlight.ucla.edu (164.67.228.152)  256.082 ms * *
+
+
+traceroute to www.ucla.edu (164.67.228.152), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  2.614 ms  2.773 ms  2.870 ms
+ 2  * * *
+ 3  100.122.53.247 (100.122.53.247)  24.572 ms  25.316 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  if-ae-1-2.thar1.asaoa-sao-paulo.as6453.net (216.6.112.4)  243.974 ms  243.935 ms *
+ 9  * if-ae-10-2.tcore1.nto-newyork.as6453.net (180.87.15.237)  203.966 ms  203.918 ms
+10  if-ae-9-2.tcore1.n75-newyork.as6453.net (63.243.128.122)  204.555 ms  204.486 ms  157.082 ms
+11  ae9.ear2.NewYork2.Level3.net (4.68.62.185)  158.082 ms  252.393 ms  251.344 ms
+12  * * *
+13  CENIC.ear1.SanJose1.Level3.net (4.15.122.46)  226.667 ms  227.578 ms  229.472 ms
+14  dc-svl-agg8--svl-agg4-100ge-1.cenic.net (137.164.11.29)  229.458 ms * *
+15  dc-lax-agg8--svl-agg8--100ge--2.cenic.net (137.164.11.20)  296.424 ms * *
+16  * * *
+17  * bd11f1.anderson--cr001.anderson.ucla.net (169.232.4.6)  239.013 ms *
+18  * * cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  306.539 ms
+19  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  270.696 ms  307.085 ms  306.900 ms
+20  spotlight.ucla.edu (164.67.228.152)  222.871 ms  224.411 ms  284.721 ms
+
+
+traceroute to www.ucla.edu (164.67.228.152), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  3.481 ms  3.896 ms  4.226 ms
+ 2  * * *
+ 3  100.122.53.247 (100.122.53.247)  27.371 ms  27.357 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  if-ae-1-2.thar1.asaoa-sao-paulo.as6453.net (216.6.112.4)  197.975 ms  199.310 ms  199.301 ms
+ 9  * if-ae-10-2.tcore1.nto-newyork.as6453.net (180.87.15.237)  204.852 ms  203.473 ms
+10  * if-ae-9-2.tcore1.n75-newyork.as6453.net (63.243.128.122)  204.933 ms  204.888 ms
+11  * * *
+12  * * *
+13  CENIC.ear1.SanJose1.Level3.net (4.15.122.46)  260.602 ms * *
+14  dc-svl-agg8--svl-agg4-100ge-1.cenic.net (137.164.11.29)  220.275 ms * *
+15  * * *
+16  * * *
+17  bd11f1.anderson--cr001.anderson.ucla.net (169.232.4.6)  223.406 ms  226.010 ms  336.184 ms
+18  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  333.516 ms  223.483 ms  224.494 ms
+19  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  285.996 ms  284.953 ms  307.692 ms
+20  spotlight.ucla.edu (164.67.228.152)  306.687 ms  307.721 ms  220.316 ms
+
+
+traceroute to www.ucla.edu (164.67.228.152), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  2.176 ms  2.200 ms  2.341 ms
+ 2  189-83-64-1.user.veloxzone.com.br (189.83.64.1)  4650.392 ms  4650.386 ms *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * ix-ae-13-0.thar1.asaob-sao-paulo.as6453.net (216.6.93.64)  25.024 ms  26.143 ms
+ 8  if-ae-1-2.thar1.asaoa-sao-paulo.as6453.net (216.6.112.4)  153.699 ms  152.555 ms  167.575 ms
+ 9  if-ae-10-2.tcore1.nto-newyork.as6453.net (180.87.15.237)  167.534 ms  216.613 ms  216.576 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * dc-svl-agg8--svl-agg4-100ge-1.cenic.net (137.164.11.29)  251.616 ms
+15  dc-lax-agg8--svl-agg8--100ge--2.cenic.net (137.164.11.20)  251.562 ms  265.170 ms  265.129 ms
+16  * * *
+17  bd11f1.anderson--cr001.anderson.ucla.net (169.232.4.6)  295.394 ms  295.378 ms  295.366 ms
+18  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  295.552 ms * *
+19  * * *
+20  * * *
+21  * spotlight.ucla.edu (164.67.228.152)  305.713 ms  305.674 ms
+
+
+traceroute to www.ucla.edu (164.67.228.152), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.926 ms  2.036 ms  2.232 ms
+ 2  * * *
+ 3  100.122.53.247 (100.122.53.247)  25.457 ms  26.522 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  if-ae-1-2.thar1.asaoa-sao-paulo.as6453.net (216.6.112.4)  216.962 ms  216.927 ms  217.442 ms
+ 9  * if-ae-10-2.tcore1.nto-newyork.as6453.net (180.87.15.237)  207.551 ms  207.510 ms
+10  * if-ae-9-2.tcore1.n75-newyork.as6453.net (63.243.128.122)  204.061 ms  204.016 ms
+11  ae9.ear2.NewYork2.Level3.net (4.68.62.185)  201.598 ms  201.558 ms  205.327 ms
+12  * * *
+13  CENIC.ear1.SanJose1.Level3.net (4.15.122.46)  222.457 ms  224.460 ms  224.514 ms
+14  dc-svl-agg8--svl-agg4-100ge-1.cenic.net (137.164.11.29)  225.955 ms * *
+15  dc-lax-agg8--svl-agg8--100ge--2.cenic.net (137.164.11.20)  256.126 ms * *
+16  * * *
+17  * bd11f1.anderson--cr001.anderson.ucla.net (169.232.4.6)  221.661 ms *
+18  * * cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  308.369 ms
+19  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  240.034 ms  305.442 ms  306.092 ms
+20  spotlight.ucla.edu (164.67.228.152)  223.994 ms  224.415 ms  325.328 ms
+
+
+traceroute to www.ucla.edu (164.67.228.152), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  3.355 ms  4.272 ms  4.242 ms
+ 2  * * *
+ 3  100.122.53.247 (100.122.53.247)  26.072 ms  26.322 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  if-ae-1-2.thar1.asaoa-sao-paulo.as6453.net (216.6.112.4)  133.747 ms  135.726 ms *
+ 9  * if-ae-10-2.tcore1.nto-newyork.as6453.net (180.87.15.237)  244.235 ms  242.226 ms
+10  if-ae-9-2.tcore1.n75-newyork.as6453.net (63.243.128.122)  138.222 ms  138.184 ms  165.766 ms
+11  ae9.ear2.NewYork2.Level3.net (4.68.62.185)  165.942 ms  146.335 ms *
+12  ae-1-3504.ear1.SanJose1.Level3.net (4.69.214.146)  200.133 ms * *
+13  CENIC.ear1.SanJose1.Level3.net (4.15.122.46)  221.703 ms * *
+14  * * *
+15  dc-lax-agg8--svl-agg8--100ge--2.cenic.net (137.164.11.20)  266.341 ms * *
+16  * * *
+17  * bd11f1.anderson--cr001.anderson.ucla.net (169.232.4.6)  255.349 ms  255.281 ms
+18  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  222.181 ms  307.922 ms *
+19  cr00f1.anderson--rtr11f4.mathsci.ucla.net (169.232.8.185)  278.282 ms * *
+20  spotlight.ucla.edu (164.67.228.152)  224.233 ms *  307.606 ms
+
+
+
+
+
+
+traceroute to www.phil.cam.ac.uk (131.111.15.58), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  3.226 ms  3.414 ms  3.699 ms
+ 2  * * *
+ 3  100.122.53.157 (100.122.53.157)  28.003 ms  27.747 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  HundredGE0-3-0-0.br01.ldn04.pccwbtn.net (63.218.242.129)  306.546 ms  306.487 ms  306.466 ms
+ 9  linx-gw1.ja.net (195.66.224.15)  307.983 ms  305.915 ms  307.621 ms
+10  ae23.londtt-sbr1.ja.net (146.97.35.169)  305.828 ms  304.397 ms  217.486 ms
+11  ae28.londtw-sbr2.ja.net (146.97.33.62)  215.451 ms  215.441 ms *
+12  ae31.lowdss-sbr1.ja.net (146.97.33.29)  296.254 ms  296.214 ms *
+13  ae26.lowdss-ban1.ja.net (146.97.35.246)  307.663 ms  307.608 ms  307.465 ms
+14  uoc.ja.net (146.97.41.38)  307.415 ms  307.368 ms  309.146 ms
+15  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  307.640 ms  306.440 ms  215.431 ms
+16  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  216.170 ms  300.618 ms  302.900 ms
+17  philos.falcon.csx.cam.ac.uk (131.111.15.58)  300.542 ms  302.648 ms  302.996 ms
+
+
+traceroute to www.phil.cam.ac.uk (131.111.15.58), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.801 ms  2.622 ms  2.757 ms
+ 2  * * *
+ 3  100.122.53.157 (100.122.53.157)  28.215 ms  28.337 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  HundredGE0-3-0-0.br01.ldn04.pccwbtn.net (63.218.242.129)  267.026 ms  266.981 ms  266.971 ms
+ 9  * linx-gw1.ja.net (195.66.224.15)  291.221 ms  291.173 ms
+10  * ae23.londtt-sbr1.ja.net (146.97.35.169)  323.349 ms  323.302 ms
+11  ae28.londtw-sbr2.ja.net (146.97.33.62)  306.492 ms  308.852 ms  208.707 ms
+12  ae31.lowdss-sbr1.ja.net (146.97.33.29)  207.019 ms  304.905 ms  304.231 ms
+13  ae26.lowdss-ban1.ja.net (146.97.35.246)  249.970 ms  249.925 ms  259.978 ms
+14  uoc.ja.net (146.97.41.38)  259.937 ms  236.000 ms  239.049 ms
+15  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  216.434 ms  217.072 ms  218.513 ms
+16  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  219.160 ms * *
+17  * * *
+18  * philos.falcon.csx.cam.ac.uk (131.111.15.58)  273.204 ms  273.166 ms
+
+
+traceroute to www.phil.cam.ac.uk (131.111.15.58), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.949 ms  2.338 ms  2.632 ms
+ 2  * * *
+ 3  100.122.53.157 (100.122.53.157)  23.677 ms  24.483 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  HundredGE0-3-0-0.br01.ldn04.pccwbtn.net (63.218.242.129)  222.326 ms  222.779 ms *
+ 9  * linx-gw1.ja.net (195.66.224.15)  320.775 ms  320.311 ms
+10  ae23.londtt-sbr1.ja.net (146.97.35.169)  215.695 ms  216.554 ms  296.207 ms
+11  ae28.londtw-sbr2.ja.net (146.97.33.62)  295.328 ms  307.313 ms  307.266 ms
+12  ae31.lowdss-sbr1.ja.net (146.97.33.29)  308.190 ms  308.145 ms  291.964 ms
+13  ae26.lowdss-ban1.ja.net (146.97.35.246)  291.915 ms  218.907 ms  218.839 ms
+14  uoc.ja.net (146.97.41.38)  237.601 ms  239.301 ms  240.177 ms
+15  * * *
+16  * d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  273.177 ms *
+17  * * *
+18  * * philos.falcon.csx.cam.ac.uk (131.111.15.58)  212.302 ms
+
+
+traceroute to www.phil.cam.ac.uk (131.111.15.58), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  2.194 ms  2.254 ms  2.453 ms
+ 2  * * *
+ 3  100.122.53.157 (100.122.53.157)  26.809 ms  26.801 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  HundredGE0-3-0-0.br01.ldn04.pccwbtn.net (63.218.242.129)  251.388 ms  251.345 ms  251.329 ms
+ 9  * linx-gw1.ja.net (195.66.224.15)  309.539 ms  309.500 ms
+10  * ae23.londtt-sbr1.ja.net (146.97.35.169)  305.659 ms  305.612 ms
+11  ae28.londtw-sbr2.ja.net (146.97.33.62)  305.984 ms  306.835 ms *
+12  ae31.lowdss-sbr1.ja.net (146.97.33.29)  293.307 ms  207.295 ms  321.843 ms
+13  ae26.lowdss-ban1.ja.net (146.97.35.246)  213.470 ms  212.801 ms  212.589 ms
+14  uoc.ja.net (146.97.41.38)  249.307 ms  249.496 ms  249.666 ms
+15  * * *
+16  * * *
+17  philos.falcon.csx.cam.ac.uk (131.111.15.58)  332.010 ms * *
+
+
+traceroute to www.phil.cam.ac.uk (131.111.15.58), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  2.004 ms  2.175 ms  2.456 ms
+ 2  * * *
+ 3  100.122.53.157 (100.122.53.157)  23.867 ms  24.522 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  HundredGE0-3-0-0.br01.ldn04.pccwbtn.net (63.218.242.129)  286.322 ms  286.281 ms *
+ 9  * linx-gw1.ja.net (195.66.224.15)  307.323 ms  307.276 ms
+10  ae23.londtt-sbr1.ja.net (146.97.35.169)  215.218 ms  216.045 ms  296.770 ms
+11  ae28.londtw-sbr2.ja.net (146.97.33.62)  295.903 ms  304.497 ms  304.451 ms
+12  ae31.lowdss-sbr1.ja.net (146.97.33.29)  307.327 ms  307.286 ms  309.595 ms
+13  ae26.lowdss-ban1.ja.net (146.97.35.246)  313.425 ms  305.812 ms  301.960 ms
+14  uoc.ja.net (146.97.41.38)  267.115 ms  267.068 ms  236.792 ms
+15  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  218.396 ms  218.521 ms  219.878 ms
+16  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  220.817 ms * *
+17  * * philos.falcon.csx.cam.ac.uk (131.111.15.58)  248.403 ms
+
+
+traceroute to www.phil.cam.ac.uk (131.111.15.58), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.907 ms  2.042 ms  2.253 ms
+ 2  * * *
+ 3  100.122.53.157 (100.122.53.157)  24.646 ms  25.915 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  HundredGE0-3-0-0.br01.ldn04.pccwbtn.net (63.218.242.129)  277.644 ms  277.587 ms *
+ 9  * linx-gw1.ja.net (195.66.224.15)  306.713 ms  306.667 ms
+10  ae23.londtt-sbr1.ja.net (146.97.35.169)  307.054 ms  307.008 ms  308.211 ms
+11  ae28.londtw-sbr2.ja.net (146.97.33.62)  307.863 ms  305.959 ms  305.675 ms
+12  ae31.lowdss-sbr1.ja.net (146.97.33.29)  309.837 ms  309.789 ms  207.204 ms
+13  ae26.lowdss-ban1.ja.net (146.97.35.246)  212.960 ms  304.103 ms  299.157 ms
+14  uoc.ja.net (146.97.41.38)  235.431 ms  236.130 ms  335.130 ms
+15  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  334.892 ms  334.885 ms  334.881 ms
+16  * * *
+17  philos.falcon.csx.cam.ac.uk (131.111.15.58)  310.928 ms * *
+
+
+traceroute to www.phil.cam.ac.uk (131.111.15.58), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.923 ms  2.294 ms  2.383 ms
+ 2  * * *
+ 3  100.122.53.157 (100.122.53.157)  41.314 ms  41.306 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  HundredGE0-3-0-0.br01.ldn04.pccwbtn.net (63.218.242.129)  284.801 ms  284.763 ms  284.990 ms
+ 9  linx-gw1.ja.net (195.66.224.15)  284.980 ms  306.935 ms  306.884 ms
+10  ae23.londtt-sbr1.ja.net (146.97.35.169)  306.721 ms *  306.941 ms
+11  ae28.londtw-sbr2.ja.net (146.97.33.62)  306.871 ms  306.849 ms  307.555 ms
+12  ae31.lowdss-sbr1.ja.net (146.97.33.29)  307.501 ms  307.489 ms  307.081 ms
+13  ae26.lowdss-ban1.ja.net (146.97.35.246)  307.028 ms  307.018 ms  307.479 ms
+14  uoc.ja.net (146.97.41.38)  307.411 ms  307.381 ms  306.324 ms
+15  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  306.269 ms  306.257 ms  283.195 ms
+16  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  283.140 ms  283.128 ms  228.420 ms
+17  philos.falcon.csx.cam.ac.uk (131.111.15.58)  226.624 ms  228.330 ms *
+
+
+traceroute to www.phil.cam.ac.uk (131.111.15.58), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  8.049 ms  8.163 ms  8.187 ms
+ 2  * * *
+ 3  100.122.53.157 (100.122.53.157)  35.605 ms  35.767 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  HundredGE0-3-0-0.br01.ldn04.pccwbtn.net (63.218.242.129)  241.982 ms  241.941 ms  241.926 ms
+ 9  linx-gw1.ja.net (195.66.224.15)  243.116 ms  308.118 ms  308.066 ms
+10  * * ae23.londtt-sbr1.ja.net (146.97.35.169)  215.047 ms
+11  ae28.londtw-sbr2.ja.net (146.97.33.62)  212.582 ms  299.402 ms  297.012 ms
+12  ae31.lowdss-sbr1.ja.net (146.97.33.29)  306.371 ms  306.337 ms  307.217 ms
+13  ae26.lowdss-ban1.ja.net (146.97.35.246)  307.168 ms  307.385 ms  307.340 ms
+14  uoc.ja.net (146.97.41.38)  235.975 ms  236.071 ms  236.345 ms
+15  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  218.476 ms  218.612 ms *
+16  * * *
+17  * * *
+18  * philos.falcon.csx.cam.ac.uk (131.111.15.58)  277.910 ms  277.883 ms
+
+
+traceroute to www.phil.cam.ac.uk (131.111.15.58), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.878 ms  2.281 ms  2.606 ms
+ 2  * * *
+ 3  100.122.53.157 (100.122.53.157)  25.206 ms  25.807 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  HundredGE0-3-0-0.br01.ldn04.pccwbtn.net (63.218.242.129)  262.659 ms  262.614 ms *
+ 9  * linx-gw1.ja.net (195.66.224.15)  306.515 ms  306.466 ms
+10  ae23.londtt-sbr1.ja.net (146.97.35.169)  306.961 ms  306.921 ms  223.787 ms
+11  ae28.londtw-sbr2.ja.net (146.97.33.62)  223.277 ms  212.504 ms  212.061 ms
+12  ae31.lowdss-sbr1.ja.net (146.97.33.29)  281.062 ms  281.017 ms  306.696 ms
+13  ae26.lowdss-ban1.ja.net (146.97.35.246)  306.646 ms  306.904 ms  306.860 ms
+14  uoc.ja.net (146.97.41.38)  238.074 ms  238.646 ms  236.632 ms
+15  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  218.539 ms  218.711 ms  219.896 ms
+16  * * *
+17  * * *
+18  * philos.falcon.csx.cam.ac.uk (131.111.15.58)  296.339 ms  296.286 ms
+
+
+traceroute to www.phil.cam.ac.uk (131.111.15.58), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.903 ms  1.965 ms  2.884 ms
+ 2  * * *
+ 3  100.122.53.157 (100.122.53.157)  24.169 ms  26.604 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  HundredGE0-3-0-0.br01.ldn04.pccwbtn.net (63.218.242.129)  222.495 ms  222.447 ms  227.264 ms
+ 9  * linx-gw1.ja.net (195.66.224.15)  285.581 ms  285.530 ms
+10  * ae23.londtt-sbr1.ja.net (146.97.35.169)  216.639 ms  218.187 ms
+11  ae28.londtw-sbr2.ja.net (146.97.33.62)  294.552 ms  292.971 ms  213.631 ms
+12  ae31.lowdss-sbr1.ja.net (146.97.33.29)  215.301 ms  212.123 ms  211.361 ms
+13  ae26.lowdss-ban1.ja.net (146.97.35.246)  215.529 ms  214.883 ms  283.283 ms
+14  uoc.ja.net (146.97.41.38)  283.028 ms  259.294 ms  260.230 ms
+15  d-dw.s-dw.net.cam.ac.uk (193.60.88.2)  244.411 ms  244.626 ms  245.682 ms
+16  * * *
+17  * * *
+18  * * philos.falcon.csx.cam.ac.uk (131.111.15.58)  299.643 ms
+
+
+
+
+
+
+traceroute to www.adelaide.edu.au (129.127.149.1), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.887 ms  1.940 ms  2.285 ms
+ 2  * * *
+ 3  100.122.48.241 (100.122.48.241)  26.053 ms  26.357 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  TenGE0-3-0-2.br03.lax05.pccwbtn.net (63.223.43.102)  273.246 ms  273.191 ms  276.120 ms
+ 9  TenGE0-3-0-3.br03.lax05.pccwbtn.net (63.223.43.106)  276.107 ms  308.119 ms  308.076 ms
+10  aarnet.as7575.any2ix.coresite.com (206.72.210.64)  305.133 ms *  308.048 ms
+11  xe-0-2-1.pe1.alxd.nsw.aarnet.net.au (202.158.194.172)  364.596 ms  364.576 ms  410.536 ms
+12  et-3-3-0.pe1.rsby.nsw.aarnet.net.au (113.197.15.156)  366.689 ms  366.647 ms  409.366 ms
+13  xe-1-1-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.199)  396.559 ms  396.516 ms  409.587 ms
+14  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  409.537 ms  409.527 ms  378.907 ms
+15  et-0-3-0.pe1.adel.sa.aarnet.net.au (113.197.15.29)  393.322 ms  412.187 ms  442.214 ms
+16  adelaide.vlan244.xe-5-0-4.pe1.adel.sa.aarnet.net.au (138.44.192.93)  441.989 ms  441.977 ms *
+17  * * *
+18  * * *
+19  * * *
+20  online-media.adelaide.edu.au (129.127.149.1)  410.297 ms  410.253 ms  410.457 ms
+
+
+traceroute to www.adelaide.edu.au (129.127.149.1), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  2.010 ms  2.435 ms  2.776 ms
+ 2  * * *
+ 3  100.122.48.241 (100.122.48.241)  33.191 ms  33.187 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  TenGE0-3-0-2.br03.lax05.pccwbtn.net (63.223.43.102)  205.494 ms  208.466 ms  208.452 ms
+ 9  * TenGE0-3-0-3.br03.lax05.pccwbtn.net (63.223.43.106)  218.457 ms  218.056 ms
+10  * aarnet.as7575.any2ix.coresite.com (206.72.210.64)  265.186 ms  262.569 ms
+11  xe-0-2-1.pe1.alxd.nsw.aarnet.net.au (202.158.194.172)  365.296 ms  365.254 ms  456.025 ms
+12  et-3-3-0.pe1.rsby.nsw.aarnet.net.au (113.197.15.156)  453.502 ms  358.399 ms  355.972 ms
+13  xe-1-1-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.199)  368.857 ms  368.825 ms  368.819 ms
+14  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  383.776 ms  383.773 ms *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  online-media.adelaide.edu.au (129.127.149.1)  497.225 ms  409.454 ms  410.459 ms
+
+
+traceroute to www.adelaide.edu.au (129.127.149.1), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.941 ms  2.331 ms  2.666 ms
+ 2  * * *
+ 3  100.122.48.241 (100.122.48.241)  25.565 ms  26.118 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  TenGE0-3-0-2.br03.lax05.pccwbtn.net (63.223.43.102)  223.280 ms  223.268 ms *
+ 9  * TenGE0-3-0-3.br03.lax05.pccwbtn.net (63.223.43.106)  332.912 ms  332.865 ms
+10  aarnet.as7575.any2ix.coresite.com (206.72.210.64)  309.298 ms  309.255 ms  304.800 ms
+11  xe-0-2-1.pe1.alxd.nsw.aarnet.net.au (202.158.194.172)  366.403 ms  410.541 ms  360.954 ms
+12  et-3-3-0.pe1.rsby.nsw.aarnet.net.au (113.197.15.156)  357.270 ms  355.845 ms  460.964 ms
+13  xe-1-1-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.199)  450.133 ms  434.794 ms  434.917 ms
+14  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  434.896 ms * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  online-media.adelaide.edu.au (129.127.149.1)  456.836 ms  409.765 ms  409.669 ms
+
+
+traceroute to www.adelaide.edu.au (129.127.149.1), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  2.414 ms  2.774 ms  3.154 ms
+ 2  * * *
+ 3  100.122.48.241 (100.122.48.241)  26.897 ms  26.888 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  TenGE0-3-0-2.br03.lax05.pccwbtn.net (63.223.43.102)  229.200 ms  229.168 ms  229.159 ms
+ 9  * TenGE0-3-0-3.br03.lax05.pccwbtn.net (63.223.43.106)  305.157 ms  305.114 ms
+10  * aarnet.as7575.any2ix.coresite.com (206.72.210.64)  308.871 ms  308.829 ms
+11  xe-0-2-1.pe1.alxd.nsw.aarnet.net.au (202.158.194.172)  407.395 ms  407.355 ms  515.256 ms
+12  et-3-3-0.pe1.rsby.nsw.aarnet.net.au (113.197.15.156)  515.208 ms  354.321 ms  355.636 ms
+13  xe-1-1-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.199)  479.009 ms  478.949 ms  478.931 ms
+14  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  478.914 ms  479.121 ms *
+15  * * *
+16  * adelaide.vlan244.xe-5-0-4.pe1.adel.sa.aarnet.net.au (138.44.192.93)  381.675 ms *
+17  * * *
+18  * * *
+19  * * *
+20  * online-media.adelaide.edu.au (129.127.149.1)  471.061 ms  410.732 ms
+
+
+traceroute to www.adelaide.edu.au (129.127.149.1), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.850 ms  2.226 ms  2.571 ms
+ 2  * * *
+ 3  100.122.48.241 (100.122.48.241)  25.030 ms  25.894 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  TenGE0-3-0-2.br03.lax05.pccwbtn.net (63.223.43.102)  322.268 ms  322.313 ms *
+ 9  * TenGE0-3-0-3.br03.lax05.pccwbtn.net (63.223.43.106)  218.717 ms  220.063 ms
+10  aarnet.as7575.any2ix.coresite.com (206.72.210.64)  268.744 ms  267.383 ms  330.851 ms
+11  xe-0-2-1.pe1.alxd.nsw.aarnet.net.au (202.158.194.172)  365.955 ms  409.226 ms  376.099 ms
+12  et-3-3-0.pe1.rsby.nsw.aarnet.net.au (113.197.15.156)  409.466 ms  407.479 ms  412.523 ms
+13  xe-1-1-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.199)  412.461 ms  508.847 ms  508.811 ms
+14  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  378.674 ms  379.572 ms  376.655 ms
+15  et-0-3-0.pe1.adel.sa.aarnet.net.au (113.197.15.29)  390.229 ms  390.211 ms *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  online-media.adelaide.edu.au (129.127.149.1)  405.936 ms  405.888 ms  382.832 ms
+
+
+traceroute to www.adelaide.edu.au (129.127.149.1), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.823 ms  2.223 ms  6.915 ms
+ 2  * * *
+ 3  100.122.48.241 (100.122.48.241)  27.342 ms  27.480 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  TenGE0-3-0-2.br03.lax05.pccwbtn.net (63.223.43.102)  298.266 ms  298.196 ms  298.783 ms
+ 9  * TenGE0-3-0-3.br03.lax05.pccwbtn.net (63.223.43.106)  220.134 ms  220.098 ms
+10  aarnet.as7575.any2ix.coresite.com (206.72.210.64)  217.829 ms  216.122 ms  215.423 ms
+11  * xe-0-2-1.pe1.alxd.nsw.aarnet.net.au (202.158.194.172)  398.124 ms  397.198 ms
+12  et-3-3-0.pe1.rsby.nsw.aarnet.net.au (113.197.15.156)  409.327 ms  409.516 ms  359.314 ms
+13  xe-1-1-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.199)  371.345 ms  459.923 ms  447.645 ms
+14  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  377.567 ms  378.155 ms  394.548 ms
+15  et-0-3-0.pe1.adel.sa.aarnet.net.au (113.197.15.29)  394.615 ms  394.596 ms  394.585 ms
+16  adelaide.vlan244.xe-5-0-4.pe1.adel.sa.aarnet.net.au (138.44.192.93)  394.428 ms * *
+17  * * *
+18  * * *
+19  * * *
+20  online-media.adelaide.edu.au (129.127.149.1)  408.589 ms  408.536 ms *
+
+
+traceroute to www.adelaide.edu.au (129.127.149.1), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  2.262 ms  2.681 ms  2.774 ms
+ 2  * * *
+ 3  100.122.48.241 (100.122.48.241)  24.740 ms  26.176 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  TenGE0-3-0-2.br03.lax05.pccwbtn.net (63.223.43.102)  262.960 ms  262.909 ms *
+ 9  * TenGE0-3-0-3.br03.lax05.pccwbtn.net (63.223.43.106)  304.069 ms  304.273 ms
+10  aarnet.as7575.any2ix.coresite.com (206.72.210.64)  307.409 ms  307.183 ms  306.722 ms
+11  xe-0-2-1.pe1.alxd.nsw.aarnet.net.au (202.158.194.172)  366.909 ms  364.953 ms  361.388 ms
+12  et-3-3-0.pe1.rsby.nsw.aarnet.net.au (113.197.15.156)  359.294 ms  355.601 ms  402.353 ms
+13  xe-1-1-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.199)  365.848 ms  365.918 ms  366.197 ms
+14  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  375.953 ms  378.028 ms  378.732 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * online-media.adelaide.edu.au (129.127.149.1)  386.696 ms  386.637 ms
+
+
+traceroute to www.adelaide.edu.au (129.127.149.1), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  1.793 ms  2.165 ms  2.503 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * 63-218-223-225.static.pccwglobal.net (63.218.223.225)  255.524 ms  255.450 ms
+ 8  TenGE0-3-0-2.br03.lax05.pccwbtn.net (63.223.43.102)  255.417 ms  256.024 ms  257.701 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * et-3-3-0.pe1.rsby.nsw.aarnet.net.au (113.197.15.156)  441.219 ms
+13  xe-1-1-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.199)  441.171 ms  441.162 ms *
+14  * et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  377.789 ms  379.233 ms
+15  et-0-3-0.pe1.adel.sa.aarnet.net.au (113.197.15.29)  393.112 ms  443.150 ms  441.673 ms
+16  adelaide.vlan244.xe-5-0-4.pe1.adel.sa.aarnet.net.au (138.44.192.93)  430.280 ms  383.274 ms  393.733 ms
+17  * * *
+18  * * *
+19  * * *
+20  * * online-media.adelaide.edu.au (129.127.149.1)  497.720 ms
+
+
+traceroute to www.adelaide.edu.au (129.127.149.1), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  3.682 ms  3.634 ms  3.623 ms
+ 2  * * *
+ 3  100.122.48.241 (100.122.48.241)  24.514 ms  25.626 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  TenGE0-3-0-2.br03.lax05.pccwbtn.net (63.223.43.102)  225.783 ms  225.753 ms *
+ 9  * TenGE0-3-0-3.br03.lax05.pccwbtn.net (63.223.43.106)  307.083 ms  307.038 ms
+10  aarnet.as7575.any2ix.coresite.com (206.72.210.64)  214.216 ms  214.979 ms  299.763 ms
+11  xe-0-2-1.pe1.alxd.nsw.aarnet.net.au (202.158.194.172)  361.046 ms  407.630 ms  361.981 ms
+12  et-3-3-0.pe1.rsby.nsw.aarnet.net.au (113.197.15.156)  371.599 ms  355.156 ms  356.761 ms
+13  xe-1-1-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.199)  374.326 ms  370.738 ms  370.899 ms
+14  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  382.932 ms  386.897 ms *
+15  * * et-0-3-0.pe1.adel.sa.aarnet.net.au (113.197.15.29)  402.352 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  online-media.adelaide.edu.au (129.127.149.1)  458.537 ms  383.915 ms  463.563 ms
+
+
+traceroute to www.adelaide.edu.au (129.127.149.1), 30 hops max, 60 byte packets
+ 1  myrouter.bloi.com.br (192.168.1.1)  9.561 ms  15.898 ms  24.311 ms
+ 2  * * *
+ 3  100.122.48.241 (100.122.48.241)  73.555 ms  73.786 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  TenGE0-3-0-2.br03.lax05.pccwbtn.net (63.223.43.102)  205.706 ms  205.837 ms  207.867 ms
+ 9  TenGE0-3-0-3.br03.lax05.pccwbtn.net (63.223.43.106)  220.405 ms  320.896 ms  320.928 ms
+10  aarnet.as7575.any2ix.coresite.com (206.72.210.64)  318.676 ms *  213.447 ms
+11  xe-0-2-1.pe1.alxd.nsw.aarnet.net.au (202.158.194.172)  409.667 ms  409.557 ms  401.472 ms
+12  et-3-3-0.pe1.rsby.nsw.aarnet.net.au (113.197.15.156)  371.378 ms  371.335 ms  357.169 ms
+13  xe-1-1-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.199)  369.259 ms  369.217 ms  369.209 ms
+14  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  398.343 ms * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  online-media.adelaide.edu.au (129.127.149.1)  384.843 ms  501.348 ms  409.963 ms
+
+
+
+
+
+
