@@ -16,7 +16,7 @@ do
 	done
 
 	echo $site done
-	printf "\n\n\n\n"
+	printf "\n\n\n\n" >> traceroute.txt
 
 
 done
