@@ -10,7 +10,7 @@ do
 	counter=1
 	until [ $counter -gt 10 ]
 	do
-		traceroute $site >> traceroute.txt
+		traceroute -I $site >> traceroute.txt
 		printf "\n\n" >>traceroute.txt
 		((counter++))
 	done
