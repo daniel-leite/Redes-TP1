@@ -60,11 +60,11 @@ def main (file, names):
         rtt = np.array([float(x) for x in rtt_str])
     #     print (rtt.mean(), rtt)
 
-        ax[int(i/2)][i%2].hist(rtt)
+        ax[int(i/2)][i%2].hist(rtt, density=False)
         ax[int(i/2)][i%2].set_xlabel('rtt[ms]')
         ax[int(i/2)][i%2].set_title('RTT para ' +sites[i])
 
-        route = getRoute(i, 'traceroute_11h00.txt')
+        route = getRoute(i, file)
         with open(file[:n-4] + '_route2_' + names[i]+'-.txt', 'w') as f:
             for line in route:
                 for ii, addr in enumerate(line):
