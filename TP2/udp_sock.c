@@ -15,21 +15,25 @@ static int s;
 static struct sockaddr_in mysock, destsock;
 
 // Inicializa socket
-void sockinit(char* addr, int destport, int myport)
+void sockinit(char* destaddr, char* myaddr, int destport, int myport)
 {
 	// Monta estruturas de dados dos endereços
 	bzero((char*) &destsock, sizeof(destsock));
 	bzero((char*) &mysock, sizeof(mysock));
 
-	if(inet_aton(addr, &destsock.sin_addr) == 0) {
-		fprintf(stderr, "Host %s desconhecido ou inválido\n", addr);
+	if(inet_aton(destaddr, &destsock.sin_addr) == 0) {
+		fprintf(stderr, "Host %s desconhecido ou inválido\n", destaddr);
 		exit(1);
 	}
 
 	destsock.sin_family = AF_INET;
 	destsock.sin_port = htons(destport);
 
-	mysock.sin_addr.s_addr = INADDR_ANY;
+	if(inet_aton(myaddr, &mysock.sin_addr) == 0) {
+		fprintf(stderr, "Host %s desconhecido ou inválido\n", myaddr);
+		exit(1);
+	}
+
 	mysock.sin_family = AF_INET;
 	mysock.sin_port = htons(myport);
 

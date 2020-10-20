@@ -3,7 +3,7 @@
 
 #define BUF_MAX 256
 
-void sockinit(char* addr, int destport, int myport);
+void sockinit(char* destaddr, char* myaddr, int destport, int myport);
 void sockclose();
 void socksend(char* buf, int len);
 int sockrecv(char* buf);

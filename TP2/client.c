@@ -14,8 +14,8 @@ int main(int argc, char* argv[])
 	int size;
 	float rtt;
 
-	if(argc != 2) {
-		fprintf(stderr, "Uso: %s <host>\n", argv[0]);
+	if(argc != 3) {
+		fprintf(stderr, "Uso: %s <dest_host> <my_host>\n", argv[0]);
 		exit(1);
 	}
 
@@ -25,7 +25,7 @@ int main(int argc, char* argv[])
 	}
 
 	// Inicializa socket
-	sockinit(argv[1], SERVER_PORT, CLIENT_PORT);
+	sockinit(argv[1], argv[2], SERVER_PORT, CLIENT_PORT);
 
 	// Item (a)
 	printf("Latência ida-e-volta UDP:\n");

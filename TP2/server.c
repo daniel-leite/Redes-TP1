@@ -11,7 +11,7 @@ int main(int argc, char* argv[])
 	char* buf;
 	int size;
 
-	if(argc != 2) {
+	if(argc != 3) {
 		fprintf(stderr, "Uso: %s <host>\n", argv[0]);
 		exit(1);
 	}
@@ -22,7 +22,7 @@ int main(int argc, char* argv[])
 	}
 
 	// Inicializa socket
-	sockinit(argv[1], CLIENT_PORT, SERVER_PORT);
+	sockinit(argv[1], argv[2], CLIENT_PORT, SERVER_PORT);
 
 	// Continuamente retransmite mensagens e imprime tamanho
 	while((size = sockrecv(buf)) > 0) {
