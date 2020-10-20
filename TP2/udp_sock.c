@@ -9,7 +9,7 @@
 #include <arpa/inet.h>
 #include <time.h>
 
-#define BUF_MAX 4096 // 4 kB
+#define BUF_MAX 32768 // 32 kB
 
 static int s;
 static struct sockaddr_in mysock, destsock;
