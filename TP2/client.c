@@ -10,12 +10,17 @@
 
 int main(int argc, char* argv[])
 {
-	char buf[BUF_MAX] = {0};
+	char* buf;
 	int size;
 	float rtt;
 
 	if(argc != 2) {
 		fprintf(stderr, "Uso: %s <host>\n", argv[0]);
+		exit(1);
+	}
+
+	if((buf = calloc(BUF_MAX, sizeof(char))) == NULL) {
+		fprintf(stderr, "Memória insuficiente\n");
 		exit(1);
 	}
 

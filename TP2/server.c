@@ -8,11 +8,16 @@
 
 int main(int argc, char* argv[])
 {
-	char buf[BUF_MAX];
+	char* buf;
 	int size;
 
 	if(argc != 2) {
 		fprintf(stderr, "Uso: %s <host>\n", argv[0]);
+		exit(1);
+	}
+
+	if((buf = calloc(BUF_MAX, sizeof(char))) == NULL) {
+		fprintf(stderr, "Memória insuficiente\n");
 		exit(1);
 	}
 
@@ -25,6 +30,7 @@ int main(int argc, char* argv[])
 		printf("Recebidos %d bytes\n", size);
 	}
 
+	perror("");
 	sockclose();
 	return 0;
 }
